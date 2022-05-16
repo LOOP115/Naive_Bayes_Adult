@@ -1,2 +1,3 @@
-# Naive_Bayes_Adult
- 2022S1 - COMP30024 - Machine Learning - Project 1
+# Naive Bayes Learner for Adult Database
+
+* [Specification](resources/ass1_spec.pdf)
